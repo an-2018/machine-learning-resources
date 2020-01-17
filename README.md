@@ -16,6 +16,9 @@ https://medium.com/@stanleydukor/neural-representation-of-and-or-not-xor-and-xno
 > 1 / 20 Youtube playlist by Alexander Amini
  https://www.youtube.com/watch?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&feature=emb_logo&time_continue=154&v=5v1JnYv_yWs&fbclid=IwAR2LEnGeZHoEMI9034q0Pg59MBojFGE8QCAGvMXiN_vQZ4gusg2XQn-kZ88&app=desktop
 
+### Learn_Machine_Learning
+>This is the Curriculum for "Learn Machine Learning 
+https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 ### CS231n Convolutional Neural Networks for Visual Recognition
 >This is an introductory lecture designed to introduce people from outside of Computer Vision to the Image Classification problem, and the data-driven approach.
 http://cs231n.github.io/classification/?fbclid=IwAR1EfcAh4gQoUfVDC-EXFvWVW7PxliAqF7U3h63Og3C9_IboJbD1dCHoM48
