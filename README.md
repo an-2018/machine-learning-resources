@@ -3,6 +3,14 @@
 
 ## PyTorch Scholarship Challenge
 > Help resources
+### Graphing linear inequalities
+https://www.mathplanet.com/education/pre-algebra/graphing-and-functions/graphing-linear-inequalities?fbclid=IwAR3GmszhBWC6fUEB0mvjNiuHQuno7VH_C4-ynsF9lZNtpYNZThb5VE5B_W0
+
+### What is Perceptron: A Beginners Tutorial for Perceptron
+https://www.simplilearn.com/what-is-perceptron-tutorial?fbclid=IwAR0i9_hGBVCQhddORtnVv1LMChPuf93mKrG1cFcRItNAKtkM7GmebwMSpTc
+
+### Perceptron
+https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53
 
 ### Effect of Bias in Neural Network
 https://www.geeksforgeeks.org/effect-of-bias-in-neural-network/?fbclid=IwAR1xe3viYuBiabkZAeQD25dBTASSE3nEUnrtqiomAXLx4fVELtOO4K_aMhI
@@ -47,6 +55,8 @@ https://pytorch.org/deep-learning-with-pytorch?utm_source=-facebook&utm_medium=P
 > An MIT Press book
 http://www.deeplearningbook.org/
 
+### Hands-On Machine Learning with Scikit-Learn and TensorFlow
+http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf
 
 ## Articles 
 
@@ -95,3 +105,6 @@ https://chat.whatsapp.com/FaN2gdlugzXAkH4dsPKKvG?fbclid=IwAR38Umc86lVWeLW37R_QZZ
 https://web.whatsapp.com/
 ### Slack
 https://pytorchscholars.slack.com/join/shared_invite/enQtODk3MjAxODA5MTA3LTMwZmUxZjYxYTNlNjJhYThjMDI4MDc3MDU4NmViYjQ0NTdlZTgyOTM2Zjc0NmVmMjVjYjRmYTFmNDhkNDFjMDA?fbclid=IwAR08acsf00qXZxOuGtcbhuYh6PI1HUx-BDFpeVf6tjvC1ZOEQio_TUvF32Y
+
+
+#### All the resources here presented were found on the web, this is just a colletion of then. It's not intended to promote any kind of materials. The primary goal is to improve the learning process with opensource materials and a centrilized reference.
