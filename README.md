@@ -133,6 +133,10 @@ https://machinelearningmastery.com/cross-entropy-for-machine-learning/?fbclid=Iw
 > a dataset of resource from preview student
 https://airtable.com/shrwVC7gPOuTJkxW0/tblUf4zxlIMLjwrbv?blocks=hide&fbclid=IwAR3kJT9YfzmzrDSCdFEY6PUelGaCfsAV4DL59TC5e5r-VbJhzwRoy2nam64
 
+### Pytorch-list
+>A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+https://github.com/bharathgs/Awesome-pytorch-list?fbclid=IwAR1-8CSe11588MecAJ3us7Huq5FSeucYrXu_Knv1emgSMjc2Q6r072XfeAo
+
 ## Guides
 
 ### Making Road Traffic Counting App
