@@ -2,7 +2,7 @@
 >Learning resources and contents found while scraping the world Wide Web
 
 ## PyTorch Scholarship Challenge
-> Help resources
+>Intro to Deep Learning with PyTorch | Help resources 
 ### Graphing linear inequalities
 https://www.mathplanet.com/education/pre-algebra/graphing-and-functions/graphing-linear-inequalities?fbclid=IwAR3GmszhBWC6fUEB0mvjNiuHQuno7VH_C4-ynsF9lZNtpYNZThb5VE5B_W0
 
@@ -17,6 +17,13 @@ https://www.geeksforgeeks.org/effect-of-bias-in-neural-network/?fbclid=IwAR1xe3v
 
 ### Neural Representation of AND, OR, NOT, XOR and XNOR Logic Gates (Perceptron Algorithm)
 https://medium.com/@stanleydukor/neural-representation-of-and-or-not-xor-and-xnor-logic-gates-perceptron-algorithm-b0275375fea1
+
+##
+> added on 18 01 2020
+
+### Understand the Softmax Function in Minutes
+> Softmax function, a wonderful activation function that turns numbers aka logits into probabilities that sum to one. Softmax function outputs a vector that represents the probability distributions of a list of potential outcomes.
+https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d
 
 ## Courses and Paths
 
@@ -35,6 +42,15 @@ http://cs231n.github.io/classification/?fbclid=IwAR1EfcAh4gQoUfVDC-EXFvWVW7PxliA
 >Hands-on program for developers familiar with the basics of deep learning
 https://fullstackdeeplearning.com/march2019
 
+##
+> added on 18 01 2020
+
+### fast.ai
+>Making neural nets uncool again
+1 - https://www.fast.ai/?fbclid=IwAR2Q9mpldhKt0cjFGDtUKRoZoMuwxUKEDalg-IJTdCUpWFVoCyE0nXUyR5g 
+
+2 - https://course.fast.ai/index.html#
+
 ## Videos Resouces
 ### R Squared - Machine Learning Tutorial with python
 https://www.youtube.com/watch?v=-zYt0TsOicI&feature=youtu.be&fbclid=IwAR2m3FcDqZlFXFDXKqV4yjc5dgq7nbguwiBqO1Q7cz5v7r67GokAXZQZDQM&app=desktop
@@ -44,6 +60,14 @@ https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/?fbclid=IwAR0GTemXzeYUY
 
 ### Best Fit line - Machine Learning Tutorial with python
 https://www.youtube.com/watch?v=haLCtq_ztlY&feature=youtu.be&fbclid=IwAR02ipGQygbOzDQj5doWR5kynrbtnY1__JzHuqtlJVJNOrfczAaoxc4Hqno&app=desktop
+
+##
+> added on 18 01 2020
+
+### Python for Beginners
+> Youtube Playlist by Microsoft Developer| Chris and Susan
+https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+
 
 ## eBooks
 ### DEEP LEARNING WITH PYTORCH
@@ -86,6 +110,29 @@ https://colah.github.io/posts/2015-08-Understanding-LSTMs/?fbclid=IwAR0hXLzc3ec3
 
 ### Using neural networks to solve advanced mathematics equations
 https://ai.facebook.com/blog/using-neural-networks-to-solve-advanced-mathematics-equations/
+
+##
+> added on 18 01 2020
+
+### Using neural nets to recognize handwritten digits
+http://neuralnetworksanddeeplearning.com/chap1.html?fbclid=IwAR0Rez_fZEMCPG1ENaWvWm91RK3J0HQwR3JlJXa8gIQY8qMtxmO83r-h1Y4
+
+### Visualizing Gradient Descent
+https://towardsdatascience.com/gradient-descent-d3a58eb72404
+
+### Understanding Logistic Regression step by step
+https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a
+
+### A Gentle Introduction to Cross-Entropy for Machine Learning
+https://machinelearningmastery.com/cross-entropy-for-machine-learning/?fbclid=IwAR1RdTAOeFuJupxVoo3Fd-NyMCpKsxx6umG4d4Ptkw0XcQBadkRUn2RT6jc
+
+##
+>added on 20 01 2020
+
+### Pythorch Udacity Resource Database
+> a dataset of resource from preview student
+https://airtable.com/shrwVC7gPOuTJkxW0/tblUf4zxlIMLjwrbv?blocks=hide&fbclid=IwAR3kJT9YfzmzrDSCdFEY6PUelGaCfsAV4DL59TC5e5r-VbJhzwRoy2nam64
+
 ## Guides
 
 ### Making Road Traffic Counting App
@@ -94,7 +141,11 @@ https://learnml.today/making-road-traffic-counting-app-4?fbclid=IwAR3YOEPmG3nyG6
 ### Web Scraping For Machine Learning - With SQL Database
 https://mlfromscratch.com/web-scraping-machine-learning/#/
 
+##
+> added on 18 01 2020
 
+### DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ
+https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html?fbclid=IwAR3zfCG0a0lbyJ4rlOo-U7IpFgS_0UdKV0-CjHWUcaREWSFqxmwZ4YvyDeA
 
 ## Unoficial Groups
 ### Whatsapp 1 
