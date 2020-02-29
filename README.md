@@ -1,6 +1,8 @@
 # machine-learning-resources
 >Learning resources and contents found while scraping the world Wide Web
 
+## Link to udacity repository of the deeplearning with pytorch 
+https://github.com/udacity/deep-learning-v2-pytorch
 ## PyTorch Scholarship Challenge
 >Intro to Deep Learning with PyTorch | Help resources 
 ### Graphing linear inequalities
