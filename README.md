@@ -72,6 +72,12 @@ https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
 
 
 ## eBooks
+
+### Matematics for mchine learning
+https://github.com/an-2018/mml-book.github.io
+##
+> added on 18 01 2020
+
 ### DEEP LEARNING WITH PYTORCH
 > Essential Excerpts
 https://pytorch.org/deep-learning-with-pytorch?utm_source=-facebook&utm_medium=PyTorch&utm_campaign=organic&utm_content=post-url&utm_offering=artificial-intelligence&utm_product=pytorch-book-deep-learning_112119&fbclid=IwAR2U1mwl6QK4rkLq3v0js0mEyUV50POqtoL9_z09oXDgnxhRb5kQYSb_Bto
