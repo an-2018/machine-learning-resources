@@ -1,5 +1,7 @@
 # machine-learning-resources
 >Learning resources and contents found while scraping the world Wide Web
+## Tips
+Get involved on the comunity and keep fullfiling such aspiring content on your brain, follow peoples like deep learning experts Andrew Trask, Ian Goodfellow, Jun-Yan Zhu, and Sebastian Thrun. Do this dayly and never stop dreaming, projeting and implementing amazing things in the field of ml and tech in general.
 
 ## Link to udacity repository of the deeplearning with pytorch 
 https://github.com/udacity/deep-learning-v2-pytorch
