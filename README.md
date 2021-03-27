@@ -161,15 +161,4 @@ https://mlfromscratch.com/web-scraping-machine-learning/#/
 ### DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ
 https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html?fbclid=IwAR3zfCG0a0lbyJ4rlOo-U7IpFgS_0UdKV0-CjHWUcaREWSFqxmwZ4YvyDeA
 
-## Unoficial Groups
-### Whatsapp 1 
-https://chat.whatsapp.com/BbcSCIcrvSPG6K9yWYbmo1?fbclid=IwAR1WmM6Svulkp1oZSBQjUl8Zh9DwwukZjhhGZ81rXdGdWqsyHADaD9rv3so
-### Whatsapp 2
-https://chat.whatsapp.com/FaN2gdlugzXAkH4dsPKKvG?fbclid=IwAR38Umc86lVWeLW37R_QZZBvfAdLPlewOegxgXzfFANCXNRWj_YGZJPC2cc
-### Whatsapp 3
-https://web.whatsapp.com/
-### Slack
-https://pytorchscholars.slack.com/join/shared_invite/enQtODk3MjAxODA5MTA3LTMwZmUxZjYxYTNlNjJhYThjMDI4MDc3MDU4NmViYjQ0NTdlZTgyOTM2Zjc0NmVmMjVjYjRmYTFmNDhkNDFjMDA?fbclid=IwAR08acsf00qXZxOuGtcbhuYh6PI1HUx-BDFpeVf6tjvC1ZOEQio_TUvF32Y
-
-
 #### All the resources here presented were found on the web, this is just a colletion of then. It's not intended to promote any kind of materials. The primary goal is to improve the learning process with opensource materials and a centrilized reference.
