@@ -1,5 +1,7 @@
 # ML Resources
 
+[Exemplo Pratico](https://towardsdatascience.com/do-you-know-this-flower-image-classifier-using-pytorch-1d45c3a3df1c)
+
 Fazer uma exploração durante um tempo definido das tecnologias na area de Machine learning para classificacao de imagens, terminado o periodo definido para exploracao das tecnologias, finalisar relatorio para parte teorica e passar para implementacao do prototipo, finalizando o prototipo ver opcoes para escalar a solucao e opcionalmente implementar uma solucao na nuvem, terminar com os testes, analise de resultados etc
 
 - Fase 1 - Pesquisa e familiarização com as tecnologias - Definir um tempo para explorar materiais, recursos, documentos etc, usar esses materias para tomar anotacoes sobre o tema, as tecnologias, e escrever parte introdutoria do relatorio, enquadramento, definir objetivos, estado da arte etc
@@ -19,7 +21,9 @@ Fazer uma exploração durante um tempo definido das tecnologias na area de Mach
 - [https://www.kaggle.com/learn/intro-to-machine-learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - **Datacamp** - curso em datascience e machine learning - explorar e entender os conceitos basicos de ML e aprender python
 - [https://www.datacamp.com/courses/machine-learning-for-everyone](https://www.datacamp.com/courses/machine-learning-for-everyone)
-
+- **Cursos**
+- https://www.udacity.com/course/intro-to-machine-learning--ud120
+- https://www.udacity.com/course/deep-learning-pytorch--ud188
 ### Advanced Topics
 
 - **Azure Cloud** - para implementacao mais avancada de produtos em ML (explorar depois de passar pelos outros materiais introdutórios)
